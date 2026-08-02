@@ -1,7 +1,7 @@
 ---
 title: "TUHCT Core in GameDev: Overcoming TCP/IP Collapse via Polyharmonic Resonance"
 description: "A fundamental architectural analysis of how TUHCT Core replaces obsolete TCP/UDP packet switching with deterministic O(1) wave resonance for MMOs and Cloud Gaming, securing proprietary methodologies."
-author: "TUHCT Systems Architecture Team"
+author: "Alexey TolmachЁv"
 date: "2026-08-02"
 categories: ["Network Engineering", "GameDev", "DSP", "Cloud Infrastructure"]
 ---
