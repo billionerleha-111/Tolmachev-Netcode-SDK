@@ -1,7 +1,7 @@
 ---
 title: "TUHCT Core in Enterprise MFT & Quantum Stack: Defeating Store-and-Forward Obsolescence"
 description: "A fundamental architectural analysis of how TUHCT Core replaces legacy SFTP/AS2 paradigms with deterministic polyharmonic wave resonance for post-quantum secure Managed File Transfer."
-author: "TUHCT Systems Architecture Team"
+author: "Alexey TolmachЁv"
 date: "2026-08-03"
 categories: ["Managed File Transfer", "Quantum Security", "DSP", "Enterprise Architecture"]
 ---
